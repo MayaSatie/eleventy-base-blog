@@ -1,7 +1,7 @@
 {
-  "title": "Your Blog Name",
+  "title": "蛸足のわらじ",
   "url": "https://sme-wm.netlify.app",
-  "description": "中小製造業のWeb担について考えるサイト",
+  "description": "中小製造業のWeb担業務などを中心にについて考えるサイト",
   "feed": {
     "subtitle": "雑多なことを書いていきます",
     "filename": "feed.xml",
